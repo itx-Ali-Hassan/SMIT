@@ -1,0 +1,24 @@
+:root {
+    --bg-color: #1D3557;
+}
+
+.width-15{
+    width: 15%;
+}
+
+.width-100{
+    width: 100%;
+}
+
+.my-bg-color{
+    background-color: var(--bg-color);
+    color: whitesmoke;
+}
+
+.height-100{
+    height: 100vh;
+}
+
+.height-20{
+    height: 20%;
+}
